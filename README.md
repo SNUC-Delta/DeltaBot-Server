@@ -1,1 +1,1 @@
-# Delta Bot iz gud
+# Delta
