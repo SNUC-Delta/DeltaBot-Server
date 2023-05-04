@@ -1,7 +1,7 @@
 import os
 import openai
 openai.organization = "org-ASQj9plDYyS0mGN6zKuhAs3e"
-openai.api_key = "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"
+openai.api_key = "openai_api_key"
 
 def solve(question):
     solutions = []
